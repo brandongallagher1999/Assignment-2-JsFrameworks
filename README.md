@@ -33,3 +33,7 @@ docker-compose up
 ## Opening Web App
 1. Go into any browser, preferably Google Chrome
 2. In the URL bar, type "localhost:3000"
+3. Auth0 broke, so you have to go to localhost:3000/test for CRUD operations.
+
+## Auth0
+I tried using every form of authentication and Auth0 looked good but its still broken like every other form of auth on Express.
